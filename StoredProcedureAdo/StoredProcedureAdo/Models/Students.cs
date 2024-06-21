@@ -7,7 +7,7 @@ namespace StoredProcedureAdo.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public int Age { get; set; }
-        //student class
+        //student class obj
     }
 }
 

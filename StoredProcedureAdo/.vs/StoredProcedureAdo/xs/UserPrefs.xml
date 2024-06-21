@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F0D0A700-5794-4F49-8200-93C6B9EFB080}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StoredProcedureAdo/Models/Students.cs">
+    <Files>
+      <File FileName="StoredProcedureAdo/Models/Students.cs" Line="11" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StoredProcedureAdo" expanded="True">
+            <Node name="StoredProcedureAdo" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Students.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StoredProcedureAdo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
