@@ -2356,11 +2356,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/athiratk/Projects/new/Test/StoredProcedureAdo/StoredProcedureAdo/StoredProcedureAdo.csproj",
+      "projectUniqueName": "/Users/athiratk/Projects/newtest/Test/Test/StoredProcedureAdo/StoredProcedureAdo/StoredProcedureAdo.csproj",
       "projectName": "StoredProcedureAdo",
-      "projectPath": "/Users/athiratk/Projects/new/Test/StoredProcedureAdo/StoredProcedureAdo/StoredProcedureAdo.csproj",
+      "projectPath": "/Users/athiratk/Projects/newtest/Test/Test/StoredProcedureAdo/StoredProcedureAdo/StoredProcedureAdo.csproj",
       "packagesPath": "/Users/athiratk/.nuget/packages/",
-      "outputPath": "/Users/athiratk/Projects/new/Test/StoredProcedureAdo/StoredProcedureAdo/obj/",
+      "outputPath": "/Users/athiratk/Projects/newtest/Test/Test/StoredProcedureAdo/StoredProcedureAdo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/athiratk/.nuget/NuGet/NuGet.Config"
